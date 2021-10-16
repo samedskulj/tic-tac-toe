@@ -17,3 +17,7 @@ This game is made for several reasons:
 # Deployment
 
 This site is deployed using GitHub Pages. Check out link above!
+
+# Project
+
+One of the first project that I have made to learn about JavaScript, HTML and CSS
