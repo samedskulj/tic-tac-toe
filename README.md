@@ -16,7 +16,7 @@ This game is made for several reasons:
 
 # Deployment
 
-This site is deployed using GitHub Pages. Check out link above!
+This site is deployed using GitHub Pages. Check out link above!!
 
 # Project
 
