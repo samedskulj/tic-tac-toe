@@ -24,3 +24,4 @@ One of the first project that I have made to learn about JavaScript, HTML and CS
 
 # Future version
 
+* Since it is one of the first projects there wont be any updates
