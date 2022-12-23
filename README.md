@@ -9,7 +9,7 @@ This is my first game project.
 # Why it was made
 
 This game is made for several reasons:
-* To learn Vanilla JS
+* To learn Vanilla JS - how to work with DOM, arrays and many more stuff
 * To learn how basic JavaScript works in array field
 
 [PREVIEW](https://samedskulj.github.io/Tic-Tac-Toe/)
